@@ -1,0 +1,3 @@
+[submodule "nodes/node-red-contrib-fiware"]
+	path = nodes/node-red-contrib-fiware
+	url = git@github.com:Ell-i/node-red-contrib-fiware.git
